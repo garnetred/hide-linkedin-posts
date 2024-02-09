@@ -1,3 +1,4 @@
-div:has(div.update-components-celebration) {
+.update-components-celebration:has(div.feed-shared-celebration-image), .update-components-mini-update-v2:has(div.feed-shared-celebration-image) {
   display: none !important;
 }
+

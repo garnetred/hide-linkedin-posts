@@ -5,10 +5,10 @@
   "description": "Hides certain posts on LinkedIn.",
    "permissions": ["scripting"],
   "icons": {
-    "16": "images/writing-emoji-16.png",
-    "32": "images/writing-emoji-32.png",
-    "48": "images/writing-emoji-48.png",
-    "128": "images/writing-emoji-128.png"
+    "16": "images/linkedin-flame-emoji-16.png",
+    "32": "images/linkedin-flame-emoji-32.png",
+    "48": "images/linkedin-flame-emoji-48.png",
+    "128": "images/linkedin-flame-emoji-128.png"
 },
 "background": {
     "service_worker": "scripts/background.js"
